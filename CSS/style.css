@@ -1,0 +1,62 @@
+body{
+    background: url(../images/counter-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+.counter_area{
+    width: 58vw;
+    height: 32rem;
+    border: 3px solid whitesmoke;
+    margin: 3.5rem auto;
+    box-shadow: 2px 2px 10px black, -2px 0px 8px black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 0;
+}
+h1{
+    color: whitesmoke;
+    font-weight: 550;
+    font-size: 35px;
+}
+
+h2 {
+    color: green;
+    font-size: 220px;
+    line-height: 30px;
+    font-weight: 500;
+}
+button{
+    width: 12rem;
+    height: 10rem;
+    background-color: #0d2c54 ;
+    color: white;
+    padding: 8px;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 18px;  
+    box-shadow: 2px 2px 8px black;
+}
+ button:active{
+     border: 1px solid whitesmoke;
+ }
+ .small_size_btn{
+       width: 10rem;
+ }
+@media(max-width:320px){ 
+    .counter_area{
+        width: 70vw;
+    }
+     button{
+         width: 10rem;
+     }
+     .small_size_btn{
+        width: 8rem;
+  }
+}
