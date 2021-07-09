@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Repository](https://github.com/Austinet/Javascript_Counter_By_Austinet_Side_Hustle_Project.git)
 - Live Site URL: [JavaScript Counter Live Site ](https://austinet.github.io/Javascript_Counter_By_Austinet_Side_Hustle_Project/)
 
 ## My process
