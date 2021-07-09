@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [JavaScript Counter](https://austinet.github.io/Javascript_Counter_By_Austinet_Side_Hustle_Project/)
+- Live Site URL: [JavaScript Counter Live Site ](https://austinet.github.io/Javascript_Counter_By_Austinet_Side_Hustle_Project/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt quite a lot about Javascript while carrying out this task, how to add event listeners, how to target HTMl elements and modify their content using Javascript.
+I learnt quite a lot about Javascript while carrying out this task, how to add event listeners, how to target HTML elements and modify their content using Javascript.
 
 ```html
 <div class="container">
