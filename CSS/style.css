@@ -52,7 +52,7 @@ button{
  .small_size_btn{
        width: 10rem;
  }
-@media(max-width:320px){ 
+@media(max-width:380px){ 
     .counter_area{
         width: 70vw;
         background:red;
