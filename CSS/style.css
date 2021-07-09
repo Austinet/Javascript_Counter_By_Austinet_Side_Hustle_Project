@@ -6,7 +6,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
-    height:100%;
 }
  /* Counter Section */
 .counter_area{
@@ -37,7 +36,7 @@ h2 {
     font-weight: 500;
 }
 button{
-    width: 190px;
+    width: 11.875rem;
     background-color: #0d2c54 ;
     color: white;
     padding: 8px;
@@ -59,9 +58,9 @@ button{
         width: 70vw;
     }
      button{
-         width: 160px;
+         width: 10rem;
      }
      .small_size_btn{
-        width: 140px;
+        width: 8.75rem;
   }
 }
