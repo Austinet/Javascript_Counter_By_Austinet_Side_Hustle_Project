@@ -1,8 +1,9 @@
- var value= document.getElementsByTagName("h2")[0].innerHTML;
+// Targets 
+var value= document.getElementsByTagName("h2")[0].innerHTML;
 const add= document.querySelector('#add_count');
 const subtract = document.querySelector('#lower_count');
 
-
+// Adding Event listener to the buttons
 add.addEventListener('click', () => {
     if(value<50){
     value++
