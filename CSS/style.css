@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
+    height:100%;
 }
 
 .counter_area{
@@ -34,8 +35,8 @@ h2 {
     font-weight: 500;
 }
 button{
-    width: 12rem;
-    height: 10rem;
+    width: 190px;
+    height: 160px;
     background-color: #0d2c54 ;
     color: white;
     padding: 8px;
