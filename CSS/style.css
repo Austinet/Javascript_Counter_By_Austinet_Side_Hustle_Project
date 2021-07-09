@@ -55,6 +55,7 @@ button{
 @media(max-width:320px){ 
     .counter_area{
         width: 70vw;
+        background:red;
     }
      button{
          width: 160px;
