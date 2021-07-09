@@ -55,10 +55,10 @@ button{
 @media(max-width:380px){ 
     .counter_area{
         width: 70vw;
-        background:red;
     }
      button{
          width: 160px;
+         height:150px;
      }
      .small_size_btn{
         width: 140px;
