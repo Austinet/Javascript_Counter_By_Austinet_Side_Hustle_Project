@@ -8,7 +8,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     height:100%;
 }
-
+ /* Counter Section */
 .counter_area{
     width: 58vw;
     border: 3px solid whitesmoke;
@@ -53,6 +53,7 @@ button{
  .small_size_btn{
        width: 10rem;
  }
+ /* Smaller Devices */
 @media(max-width:380px){ 
     .counter_area{
         width: 70vw;
