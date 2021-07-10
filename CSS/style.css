@@ -45,6 +45,7 @@ button{
     font-weight: 500;
     font-size: 18px;  
     box-shadow: 2px 2px 8px black;
+    cursor:pointer;
 }
  button:active{
      border: 1px solid whitesmoke;
